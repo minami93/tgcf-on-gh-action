@@ -1,9 +1,9 @@
 admins: []
 forwards:
-- source: tg_cf
+- source: -1001462261759
   dest:
-  - me
-  offset: 9
+  - -1001325755519
+  offset: 0
   end: 0
 show_forwarded_from: false
 live:
