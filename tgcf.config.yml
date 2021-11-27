@@ -1,8 +1,8 @@
 forwards:
-- source: -1001591273518
+- source: -1001462261759
   dest:
-  - -1001681867526
-  offset: 6484
+  - -1001325755519
+  offset: 0
   end: null
 show_forwarded_from: false
 live:
@@ -13,6 +13,4 @@ past:
 plugins:
   filter:
     text:
-      blacklist:
-      - badword
 admins: []
